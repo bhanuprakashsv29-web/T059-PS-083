@@ -1,0 +1,3 @@
+def calculate_operation_minutes(operation,quantity): return operation.setup_minutes+operation.run_minutes_per_unit*quantity
+def calculate_available_capacity(work_centre): return work_centre.daily_capacity_minutes
+def is_within_capacity(required_minutes,work_centre): return required_minutes<=work_centre.daily_capacity_minutes

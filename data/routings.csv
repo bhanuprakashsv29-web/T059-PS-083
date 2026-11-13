@@ -1,0 +1,4 @@
+item_id,operation_no,work_centre_id,setup_minutes,run_minutes_per_unit
+FG001,10,WC01,30,5
+FG001,20,WC02,20,3
+SUB001,10,WC01,40,4

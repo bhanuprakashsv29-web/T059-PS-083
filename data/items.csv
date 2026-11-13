@@ -1,0 +1,5 @@
+item_id,description,make_buy,lead_time_days,lot_size_rule,lot_size_quantity,period_order_quantity,minimum_order_quantity,order_multiple,safety_stock,scrap_percent,uom,standard_cost
+FG001,Finished Product,MAKE,3,LFL,0,0,0,1,10,2,EA,1000
+SUB001,Sub Assembly,MAKE,2,FOQ,500,0,100,500,20,5,EA,400
+COMP001,Component A,BUY,5,LFL,0,0,50,10,10,3,EA,50
+COMP002,Component B,BUY,4,POQ,0,2,20,10,5,0,KG,80

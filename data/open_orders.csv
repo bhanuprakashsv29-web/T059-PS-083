@@ -1,0 +1,3 @@
+order_id,item_id,order_type,quantity,due_date,status
+PO001,COMP001,PURCHASE,50,2026-11-18,OPEN
+MO001,SUB001,PRODUCTION,20,2026-11-19,OPEN

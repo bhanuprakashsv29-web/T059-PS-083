@@ -1,0 +1,1 @@
+def create_pegging(planned_order,mps_order): return {'planned_order_id':planned_order.order_id,'mps_order_id':mps_order.order_id,'top_level_item':mps_order.item_id,'mps_quantity':mps_order.quantity,'planned_item':planned_order.item_id,'planned_quantity':planned_order.quantity}
